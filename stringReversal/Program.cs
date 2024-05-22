@@ -5,6 +5,7 @@
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, World!");
+            Console.WriteLine(reverseString("Hello World!"));
         }
 
         static string reverseString(string s)
