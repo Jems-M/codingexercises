@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twoSums", "twoSums\twoSums.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nthPrime", "nthPrime\nthPrime.csproj", "{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nextPrime", "nextPrime\nextPrime.csproj", "{13323DD8-F524-4DE4-9EF7-9D3491BA38CC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13323DD8-F524-4DE4-9EF7-9D3491BA38CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13323DD8-F524-4DE4-9EF7-9D3491BA38CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13323DD8-F524-4DE4-9EF7-9D3491BA38CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13323DD8-F524-4DE4-9EF7-9D3491BA38CC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
