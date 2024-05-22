@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "longestSequence", "longestSequence\longestSequence.csproj", "{55BFF3F1-46E2-48D8-A096-BF50E67C1906}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagrams", "anagrams\anagrams.csproj", "{06C253FC-A584-4E5B-9A3C-FFC29C0EAE2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{55BFF3F1-46E2-48D8-A096-BF50E67C1906}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55BFF3F1-46E2-48D8-A096-BF50E67C1906}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55BFF3F1-46E2-48D8-A096-BF50E67C1906}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06C253FC-A584-4E5B-9A3C-FFC29C0EAE2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06C253FC-A584-4E5B-9A3C-FFC29C0EAE2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06C253FC-A584-4E5B-9A3C-FFC29C0EAE2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06C253FC-A584-4E5B-9A3C-FFC29C0EAE2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
