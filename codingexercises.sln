@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "stringReversal", "stringRev
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "palindrome", "palindrome\palindrome.csproj", "{50E55332-32E2-4D7B-90F0-DB9D32397B67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumDigits", "sumDigits\sumDigits.csproj", "{371E1331-61C3-4E79-B5B9-8082DE2C8AB8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{50E55332-32E2-4D7B-90F0-DB9D32397B67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{50E55332-32E2-4D7B-90F0-DB9D32397B67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{50E55332-32E2-4D7B-90F0-DB9D32397B67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{371E1331-61C3-4E79-B5B9-8082DE2C8AB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{371E1331-61C3-4E79-B5B9-8082DE2C8AB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{371E1331-61C3-4E79-B5B9-8082DE2C8AB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{371E1331-61C3-4E79-B5B9-8082DE2C8AB8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
