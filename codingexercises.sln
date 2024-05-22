@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "anagrams", "anagrams\anagra
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starPyramid", "starPyramid\starPyramid.csproj", "{83C587D3-7EDB-4B73-B2BB-83F1E6C7B407}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "starDiamond", "starDiamond\starDiamond.csproj", "{633AD90B-6487-4041-AA25-0F0A1C2AF470}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{83C587D3-7EDB-4B73-B2BB-83F1E6C7B407}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83C587D3-7EDB-4B73-B2BB-83F1E6C7B407}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83C587D3-7EDB-4B73-B2BB-83F1E6C7B407}.Release|Any CPU.Build.0 = Release|Any CPU
+		{633AD90B-6487-4041-AA25-0F0A1C2AF470}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{633AD90B-6487-4041-AA25-0F0A1C2AF470}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{633AD90B-6487-4041-AA25-0F0A1C2AF470}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{633AD90B-6487-4041-AA25-0F0A1C2AF470}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
