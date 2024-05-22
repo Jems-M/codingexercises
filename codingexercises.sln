@@ -19,6 +19,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sumDigits", "sumDigits\sumD
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "twoSums", "twoSums\twoSums.csproj", "{23C5BE44-8070-4ECE-94EE-E8CC4CD67149}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "nthPrime", "nthPrime\nthPrime.csproj", "{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -57,6 +59,10 @@ Global
 		{23C5BE44-8070-4ECE-94EE-E8CC4CD67149}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{23C5BE44-8070-4ECE-94EE-E8CC4CD67149}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{23C5BE44-8070-4ECE-94EE-E8CC4CD67149}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F298638E-6D97-4CC3-BB3F-715F5C04C1DE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
